@@ -81,13 +81,13 @@ The application starts with five sample books.
 
 The application initially adds the following books:
 
-| Book ID | Title       | Author | Available |
-| ------: | ----------- | ------ | --------- |
-|       1 | Java        | James  | Yes       |
-|       2 | Python      | James  | Yes       |
-|       3 | My SQL      | James  | No        |
-|       4 | Spring      | James  | Yes       |
-|       5 | Spring Boot | James  | No        |
+| Book ID | Title       | Author             | Available |
+| ------: | ----------- | ------------------ | --------- |
+|       1 | Java        | James Gosling      | Yes       |
+|       2 | Python      | Guido van Rossum   | Yes       |
+|       3 | My SQL      | Michael Widenius   | No        |
+|       4 | Spring      | Rod Johnson        | Yes       |
+|       5 | Spring Boot | Rod Johnson        | No        |
 
 ## Application Menu
 
